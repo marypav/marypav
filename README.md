@@ -1,8 +1,8 @@
 ###  Hi there 👋 I'm Mary 
 
 - ❤️💻 I'm a UX researcher who has a passion for design and code.
-- 🎓 Lecture [User Experience Research for designers, managers, and developers](https://github.com/marypavlenko/user_analytics_lecture).
-- 🚀 Project [Unmoderated UX Tests Handbook](https://www.).
+- 🎓 Lecture [User Experience Research for designers, managers, and developers](https://github.com/marypavlenko/user_analytics_lecture)
+- 🚀 Project [Unmoderated UX Tests Handbook](https://www.)
 - 📑 Project [Figma templates for unmoderated UX test](https://www.)
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
