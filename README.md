@@ -2,7 +2,7 @@
 
 - ❤️💻 I'm a UX researcher who has a passion for design and code.
 - 🎓 Lecture [User Experience Research for designers, managers, and developers](https://github.com/marypavlenko/user_analytics_lecture)
-- 🚀 Project [UX Testing Guidelines](https://marypav.github.io/ux-tests-guide/)
+- 🚀 Project [UX Testing Guidelines](https://github.com/marypav/ux-tests-guide)
 - 📑 Project [Figma Templates for Unmoderated UX Tests](https://www.)
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
