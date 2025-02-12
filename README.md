@@ -3,7 +3,7 @@
 - ❤️💻 I'm a UX researcher who has a passion for design and code.
 - 🎓 Lecture [User Experience Research for designers, managers, and developers](https://github.com/marypavlenko/user_analytics_lecture)
 - 🚀 Project [UX Testing Guidelines](https://github.com/marypav/ux-tests-guide)
-- 📑 Project [Figma Templates for Unmoderated UX Tests](https://www.)
+- 📑 Project [Figma Templates for Unmoderated UX Tests](https://www.figma.com/community/file/1471211070148972283)
 
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
