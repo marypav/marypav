@@ -1,7 +1,7 @@
 ###  Hi there 👋 I'm Mary 
 
 - ❤️💻 I'm a UX researcher who has a passion for design and code.
-- 🎓 Lecture [User Experience Research for designers, managers, and developers](https://github.com/marypavlenko/user_analytics_lecture)
+- 🎓 Lecture [UX Research Lecture for Designers, Managers, Devs](https://github.com/marypavlenko/user_analytics_lecture)
 - 🚀 Project [UX Testing Guidelines](https://github.com/marypav/ux-tests-guide)
 - 📑 Project [Figma Templates for UX Tests](https://www.figma.com/community/file/1471211070148972283)
 
