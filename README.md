@@ -3,7 +3,7 @@
 - 🇬🇧 I live in London, UK.
 - 🤖 I'm transitioning into QA Engineering after [10+ years](https://www.linkedin.com/in/mary-pavlenko/) in UX Research across large-scale digital products.
 - 🐍 I work with Python (Pytest), SQL, Postman, Git and I'm getting deeper into test automation + ISTQB CTFL in progress
-- 🫂 I believe good testing starts with understanding how real users interact with systems. That's what 10 years of UX research gave me.
+- 🫂 I believe good testing starts with understanding real users, that’s what 10+ years of UX research gave me.
 - 💻 I love pet projects where I can explain complex concepts in simple terms.
 - ✉️ You can shoot [me an email](mailto:pavlenkompq@gmail.com).
 
