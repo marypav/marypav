@@ -27,19 +27,6 @@
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![miro](https://img.shields.io/badge/miro-%23FFD02F.svg?&style=for-the-badge&logo=miro&logoColor=black)
 
-## 🧪 My QA projects
-📁 [qa-project](https://github.com/marypav/qa-project) <br/>
-Manual QA practice on a live e-commerce web application. Wrote and executed 35+ test cases across 8 functional suites, created smoke checklists and logged bug reports. All artefacts documented in English.
-> ⚙️ Qase, Postman, SQL, Chrome DevTools, GitHub
-
-📁 [social_network_project](https://github.com/marypav/social_network_project) <br/>
-Django social network I built during Yandex Practicum backend course. Wrote pytest test coverage as part of the project.
-> ⚙️ Python, Django, pytest, Git
-
-📁 [data-analysis-specialisation](https://github.com/marypav/data-analysis-specialisation) <br/>
-13 data analysis projects I completed during an 8-month Yandex Practicum programme. Worked with real datasets across the full cycle from preprocessing to forecasting.
-> ⚙️ Python, Pandas, SQL, Jupyter, Matplotlib
-
 ## 🤝 Contact me
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-pavlenko/)
